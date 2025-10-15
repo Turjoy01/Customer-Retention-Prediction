@@ -64,10 +64,6 @@ seaborn
 
 matplotlib
 
-You can install these dependencies by running:
-
-pip install -r requirements.txt
-
 
 Run the Jupyter Notebook:
 After installing the required dependencies, open the Jupyter Notebook:
